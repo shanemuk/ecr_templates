@@ -1,0 +1,33 @@
+# Genetics Clinic Note
+v0.1 Dr Shane McKee
+### Context
+(when, where, what, who is here)
+### Reason for attendance
+
+### Diagnoses
+### Family history
+Pedigree:
+~~~
+[dad]
+(mum)
+~~~
+- general disorders in family
+### History
+### Examination
+- height, weight, OFC; centiles
+- face, head, neck
+- trunk & genitalia
+- Limbs & extremities
+### Investigations
+- microarray? ```[_]```
+- sequencing, WGS, WES, panels etc
+- metabolic
+- imaging; MRI, bone age
+- EEG, echo, etc
+### Impression / Diagnosis
+### Plan
+- further management
+- investigations
+- outcome measures
+- review
+- correspondence
