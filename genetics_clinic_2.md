@@ -1,11 +1,11 @@
 # Genetics Clinic
-- Date & time as recorded.
-- Clinic episode:
-- Clinic type: FACE-TO-FACE / VIDEO / TELEPHONE
-- VENUE: 
-- PRESENT: 
-- REFERRED_BY: 
-- REASON_FOR_REFERRAL: 
+Date & time as recorded.
+Clinic episode:
+Clinic type: FACE-TO-FACE / VIDEO / TELEPHONE
+VENUE: 
+PRESENT: 
+REFERRED_BY: 
+REASON_FOR_REFERRAL: 
 
 ## HISTORY
 - FHx:
